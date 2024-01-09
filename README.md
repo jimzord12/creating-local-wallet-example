@@ -10,7 +10,7 @@ _Used pnpm instead of npm because I encountered a issued with the command:_
 
 ## Final Application
 
-![Final Application Images](./readmeImages/End_App.png)
+![Final Application Images](/readmeImages\End_App.png)
 
 ## Installation
 
@@ -22,7 +22,7 @@ To get started with this project, follow these steps:
 
 ## Options Selected
 
-![Selected Options](./readmeImages/Nextjs_Init_opts.png)
+![Selected Options](/readmeImages\Nextjs_Init_opts.png)
 
 For more information visit Next.js [official website](https://nextjs.org/docs/app/api-reference/create-next-app) for creating a Next.js app.
 
